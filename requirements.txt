@@ -3,6 +3,3 @@ pytesseract==0.3.7
 numpy==1.19.3
 Flask==1.1.1
 Pillow==8.0.1
-git add requirements.txt
-git commit -m "Fix OpenCV dependency issue"
-git push origin main
